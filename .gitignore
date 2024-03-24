@@ -160,4 +160,12 @@ cython_debug/
 #.idea/
 
 .vscode/
-Pipfile.lock
+*Pipfile.lock
+*npm-debug.log
+*Thumbs.db
+*/node_modules/
+*/out/
+*/.vs/
+tsconfig.lsif.json
+*.lsif
+*.db

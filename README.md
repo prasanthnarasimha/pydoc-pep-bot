@@ -129,3 +129,7 @@ Summary of Additions/Changes in PEPs
     PEP 572: Introduced the assignment expressions syntax (walrus operator) to allow assignment within expressions, aiming to improve readability and reduce duplication in Python code.
 
 ```
+
+## VSCode extension
+Code: [extension.ts](pydoc-pep-summary-bot-vscode-extn/src/extension.ts)
+![Alt text](vscode.png?raw=true "Vscode extension on hover")
